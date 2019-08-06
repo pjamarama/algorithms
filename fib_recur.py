@@ -4,7 +4,7 @@ def fib_rec(n):
     else:
         return fib_rec(n-1) + fib_rec(n-2)
 
-print(fib_rec(32))
+print(fib_rec(36))
 
 """
 def fib_rec(n):
